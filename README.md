@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @danhearn, a UX/UI Designer based in London
-- 👀 I’m interested in Aviation, Music and Travel!
-- 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate on music or aviation tech
-- 📫 How to reach me designdanhearn@gmail.com
+
